@@ -6,7 +6,7 @@ import schedule
 from yahoo_trade import *
 from coin_news import *
 
-TOKEN = '6228926034:AAG8BP3MllrbJA761HInQmQGd56wZxlOFlU'
+TOKEN = 'YOUR_TOKEN'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
