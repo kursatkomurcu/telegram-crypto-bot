@@ -7,6 +7,7 @@
 Go to BotFATHER in telegram and write the following commands:
 
 `$ /start`
+
 `$ /newbot`
 
 Then give a name to the bot and save your token.
